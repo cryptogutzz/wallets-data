@@ -23,4 +23,4 @@ Contains a list of addresses that made any deposit into Bifi Max Vault at BSC.
 Contains a list of addresses that staked into Kava network.
 
 
-
+HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3
